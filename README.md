@@ -1,2 +1,2 @@
 # online-code-editor.
-Online Code Editor With Pure JS..
+Online Code Editor With Pure JS.
